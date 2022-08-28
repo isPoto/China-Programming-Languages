@@ -12,5 +12,7 @@
 |[蝉语](https://github.com/cicada-lang/cicada)|[谢宇恒](https://cicada-lang.org/about)|一门依赖类型编程语言，一个交互式定理证明器|
 |[凹语言™](https://github.com/wa-lang/wa)|[柴树杉](https://github.com/chai2010)/[丁尔男](https://github.com/3dgen)/[史斌](https://github.com/benshi001)|Go 开发者设计的实验性编程语言|
 
+
 如有遗漏，欢迎补充。
+项目收录范围：中国人（含港澳台地区）和海外华人主导的编程语言；不考虑开源、收费与否。
 <!--|[]()|[]()|[]()|-->
